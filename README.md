@@ -13,7 +13,7 @@ The ACEMS datasets in development are:
 2. R packages authored, or contributed to, by ACEMS members
 3. Publication DOIs, authors, publication date.
 
-These datasets are still in development. If you would like to support the automation of these data please speak with [Jessie](https://acems.org.au/our-people/jessie-roberts), or comment on the relevant issue. 
+These datasets are in development. If you would like to support the automation of these data please speak with [Jessie](https://acems.org.au/our-people/jessie-roberts), or comment on the relevant issue. 
 
 ## Connect with other R Users within ACEMS
 You can also get invovled in ACEMS R community on the ACEMS Slack channel. If you are not on the slack channel please contact the ACEMS stakeholder Engagement officer [Jessie Roberts](https://acems.org.au/our-people/jessie-roberts).
